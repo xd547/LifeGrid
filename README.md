@@ -1,4 +1,4 @@
-# LifeGird
+# LifeGirds
 根据知乎问题所写的工具
 
 [有什么细思恐极的图片？](http://www.zhihu.com/question/24957313/answer/42368089)[@oliver](http://www.zhihu.com/people/oliver-43) 的答案
